@@ -33,8 +33,8 @@ SQLite3 (LIBRARY)
 
 {Make a list of websites that you found helpful in this project}
 
-- [Web Site Name](https://www.sqlitetutorial.net)
-- [Web Site Name](https://www.sqlite.org/lang_datefunc.html)
+- [SQLite Tutorial](https://www.sqlitetutorial.net)
+- [SQlite.org](https://www.sqlite.org/lang_datefunc.html)
 
 # Future Work
 - Figure out how to filter by age
