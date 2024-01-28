@@ -15,9 +15,10 @@ My purpose is to make it much faster process to gain the information needed befo
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+Visual Studio Code (IDE)
+Python (LANGUAGE)
+SQLite3 (LIBRARY)
 
-{Describe the programming language that you used and any libraries.}
 
 # Useful Websites
 
@@ -27,9 +28,6 @@ My purpose is to make it much faster process to gain the information needed befo
 - [Web Site Name](http://url.link.goes.here)
 
 # Future Work
-
-{Make a list of things that you need to fix, improve, and add in the future.}
-
-- Item 1
-- Item 2
-- Item 3
+- Figure out how to filter by age
+- Add in parents information table
+- Make the display of information more organized and readable.
