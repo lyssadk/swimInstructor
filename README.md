@@ -31,8 +31,6 @@ SQLite3 (LIBRARY)
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-
 - [SQLite Tutorial](https://www.sqlitetutorial.net)
 - [SQlite.org](https://www.sqlite.org/lang_datefunc.html)
 
