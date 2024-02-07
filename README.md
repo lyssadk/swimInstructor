@@ -5,7 +5,6 @@ When it runs it will display a menu and ask you to enter your first option (View
 
 My purpose is to make it much faster process to gain the information needed before lessons, consolidating the information to one database. Currently at the job we have 3 different places we have to go to get our need information and it takes like 15-25 min. Ideally it should take a few minutes.
 
-[Software Demo Video](https://youtu.be/2dO6laibdVU)
 
 # Relational Database
 
